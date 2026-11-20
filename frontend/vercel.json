@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://notesapp-dqtl.onrender.com/api/:path*"
+    }
+  ]
+}

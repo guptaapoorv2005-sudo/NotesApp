@@ -2,6 +2,14 @@
 
 Stillnote is a React and Express note-taking app backed by MongoDB. Each account has its own notes.
 
+## Tech stack
+
+- **Frontend:** React, Vite, JavaScript, and CSS
+- **Backend:** Node.js and Express
+- **Database:** MongoDB with Mongoose
+- **Authentication:** JSON Web Tokens (JWT), HTTP-only cookies, and bcrypt password hashing
+- **Deployment:** Vercel for the frontend and Render for the backend
+
 ## Backend setup
 
 1. Install Node.js (Node 20.19+ or 22.12+ is recommended) and start MongoDB locally, or use a MongoDB Atlas connection string.
